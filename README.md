@@ -18,4 +18,14 @@ The hospital staff will store all his information in the their system.
 The next time person comes unconscious, they can just scan his face and get all his previous health records and operate on him immediately.
 
 
+//Files
 
+The firstpage.py file is the sofwatre UI i designed which does all the work.
+1) You just have to click on the option Capture Face  to take photo
+2) Click on Add patient to add the photos in the system.
+3) When patient comes unconscious, click on Recognize patient to get the unique number.
+
+
+I also designed HospitalManagementSystem.py to add detials  in the system
+
+1) You can run it to add and get details of patient.
